@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -t stratdat/amhocn/redirect:production .
+docker build -t stratdat/amhocn-redirect:production .
 
